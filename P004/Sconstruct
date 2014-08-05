@@ -1,0 +1,2 @@
+env=Environment(CPPPATH='/usr/include/boost', CPPDEFINES=[], LIBS=[], CXXFLAGS="-std=c++11")
+Program('palindrome.cpp')
